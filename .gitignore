@@ -1,0 +1,60 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*.log
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Node Modules (if you add any build tools later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Build Output
+dist/
+build/
+*.min.js
+*.min.css
+
+# Personal Files (keep these private)
+assets/images/personal/
+notes.txt
+todo.txt
+
+# Optional: Ignore draft versions
+drafts/
+old_versions/
+
+# Optional: Ignore large files
+*.psd
+*.ai
+*.sketch

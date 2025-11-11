@@ -230,11 +230,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+**Ahtasham Anjum**
 - Website: [your-website.com](https://your-website.com)
-- LinkedIn: [@yourhandle](https://linkedin.com/in/yourhandle)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- LinkedIn: (https://linkedin.com/in/ahtasham-anjum)
+- GitHub: (https://github.com/ahtashamd321)
+- Email: ahtashamd321@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -268,4 +268,4 @@ If you have any questions or need help customizing the portfolio, feel free to r
 
 ⭐ **Star this repo if you found it helpful!**
 
-Made with 💚 by [Your Name](https://github.com/yourusername)
+Made with 💚 by Ahtasham Anjum(https://github.com/ahtashamd321)
